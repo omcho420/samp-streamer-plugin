@@ -1,6 +1,16 @@
 SA-MP Streamer Plugin
 =====================
 
+v2.9.5
+------
+
+- Added custom array maps (thanks Y_Less)
+- Fixed a bug regarding with pickups regarding their virtualworlds (thanks ziggi)
+- Fix pickups and actors disappearing with the high player tickrate and/or high amount of new player connections (thanks ziggi)
+- Add playerid for StreamIn/Out callback (thanks 0x416c69)
+- Add RemoveDynamicObjectMaterial and RemoveDynamicObjectMaterialText (thanks TommyB/TommyB123)
+- Fix GetPlayerVisibleDynamic(Race)CP return tags (thanks AGraber)
+
 v2.9.4
 ------
 
